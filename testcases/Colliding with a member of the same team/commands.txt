@@ -1,0 +1,3 @@
+move 24
+move 24
+show

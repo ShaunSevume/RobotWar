@@ -1,0 +1,9 @@
+move 24
+move 24
+move 24
+move 24
+move 25
+move 25
+move 25
+move 25
+show

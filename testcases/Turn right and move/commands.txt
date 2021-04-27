@@ -1,0 +1,3 @@
+turnright 68
+move 68
+show

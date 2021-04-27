@@ -1,0 +1,8 @@
+move 23
+move 23
+move 23
+move 24
+move 24
+show
+travelled
+show

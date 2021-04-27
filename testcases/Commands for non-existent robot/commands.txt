@@ -1,0 +1,5 @@
+move 41
+turnleft 42
+rurnright 43
+move 23
+show

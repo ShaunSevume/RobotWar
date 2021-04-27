@@ -1,0 +1,5 @@
+turnleft 23
+turnright 24
+move 23
+move 24
+show
