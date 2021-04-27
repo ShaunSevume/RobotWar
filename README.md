@@ -1,2 +1,1 @@
-# RobotWar
-My first programming project in C++. 
+Coursework for IN2029 Programming in C++
